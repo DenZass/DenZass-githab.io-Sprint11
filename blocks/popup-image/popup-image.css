@@ -1,0 +1,13 @@
+@import url(./image_opened/image_opened.css);
+
+.popup-image {
+    /* border: 1px solid red; */
+    max-width: 80vw;
+    max-height: 80vw;
+    min-width: 450px;
+    min-height: 560px;
+    position: relative;
+    background-image: url(https://pictures.s3.yandex.net/frontend-developer/cards-compressed/kholmogorsky-rayon.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
